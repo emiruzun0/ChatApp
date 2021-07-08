@@ -9,5 +9,9 @@ Technologies : Java, Intellij, MySQL, Hibernate
 - Run `Server.java`
 - Run `Client.java`
 
+[Client Interface]: https://github.com/emiruzun0/ChatApp/blob/main/img/GUI.png
+
+
+
 
 
